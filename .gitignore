@@ -547,5 +547,6 @@ Temporary Items
 .apdisk
 
 .next/
+next-env.d.ts
 
 .idea/
